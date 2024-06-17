@@ -1,0 +1,15 @@
+
+Without using bridge pattern. 
+
+In this situation, Engine abstract class has an abstract method which needs to be overridden in the extended child.
+As we can see it is inherited on few classes, and repeated a same structure in those child classes.
+
+/**
+ *
+ * @author ks.official.sahan
+ * sahansachintha.com
+ * Ewision (Pvt) Ltd.
+ *
+ */
+
+Authority of this application is completely owned by Mr. S.A. Sahan Sachintha.
