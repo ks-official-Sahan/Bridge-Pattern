@@ -9,7 +9,7 @@ import ewision.sahan.bridge.model.USA_WorkShop;
  *
  * @author ksoff
  */
-public class InititalizeBridge {
+public class InitializeBridge {
 
     public static void init() {
         USA_WorkShop usaWorkShop = new USA_WorkShop(new BMW());

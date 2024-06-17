@@ -1,7 +1,7 @@
 package ewision.sahan.application;
 
-import ewision.sahan.bridge.InititalizeBridge;
-import ewision.sahan.no_bridge.InititalizeNoBridge;
+import ewision.sahan.bridge.InitializeBridge;
+import ewision.sahan.no_bridge.InitializeNoBridge;
 
 /**
  *
@@ -12,10 +12,10 @@ public class Application {
     public static void main(String[] args) {
 
         System.out.println("Bridge");        
-        InititalizeBridge.init();
+        InitializeBridge.init();
         
         System.out.println("No-Bridge");        
-        InititalizeNoBridge.init();
+        InitializeNoBridge.init();
         
     }
     

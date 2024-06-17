@@ -9,7 +9,7 @@ import ewision.sahan.no_bridge.model.USA_BMW;
  *
  * @author ksoff
  */
-public class InititalizeNoBridge {
+public class InitializeNoBridge {
 
     public static void init() {
         Japan_Audi jAudi = new Japan_Audi();
