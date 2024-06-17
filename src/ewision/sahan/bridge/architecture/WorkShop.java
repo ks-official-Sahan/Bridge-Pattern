@@ -9,6 +9,10 @@ public abstract class WorkShop {
     protected Engine engine;
 
     public WorkShop(Engine engine) {
+        setEngine(engine);
+    }
+
+    public void setEngine(Engine engine) {
         this.engine = engine;
     }
     

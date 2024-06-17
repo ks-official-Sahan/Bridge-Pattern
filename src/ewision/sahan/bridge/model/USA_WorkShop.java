@@ -12,7 +12,7 @@ public class USA_WorkShop extends WorkShop {
     public USA_WorkShop(Engine engine) {
         super(engine);
     }
-
+    
     @Override
     public void setType() {
         engine.setType("USA");
